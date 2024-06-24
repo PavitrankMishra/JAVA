@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="895cf572-5a39-404d-87f9-0eae1994c8e4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA/com/company/LinkedList/S1_Linked_List$LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA/com/company/LinkedList/S1_Linked_List$LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA/com/company/LinkedList/S1_Linked_List.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA/com/company/LinkedList/S1_Linked_List.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/LinkedList/S1_Linked_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/LinkedList/S1_Linked_List.java" afterDir="false" />
-    </list>
+    <list default="true" id="895cf572-5a39-404d-87f9-0eae1994c8e4" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +42,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Stack/S1_Stack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="294">
               <caret line="42" column="22" lean-forward="true" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
             </state>
           </provider>
@@ -336,12 +331,12 @@
       <workItem from="1719161326349" duration="3906000" />
       <workItem from="1719190740065" duration="2766000" />
       <workItem from="1719221987565" duration="1683000" />
-      <workItem from="1719225135687" duration="4478000" />
+      <workItem from="1719225135687" duration="4535000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29950000" />
+    <option name="totallyTimeSpent" value="30007000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -354,7 +349,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="830" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.3016086" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -365,7 +359,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32904148" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32904148" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -373,11 +367,11 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32904148" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32904148" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32904148" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info active="true" anchor="right" id="Ant Build" order="1" visible="true" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Database" order="4" />
@@ -389,6 +383,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
@@ -569,7 +567,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Stack/S1_Stack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="294">
           <caret line="42" column="22" lean-forward="true" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
         </state>
       </provider>

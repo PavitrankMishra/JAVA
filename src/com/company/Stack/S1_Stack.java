@@ -33,8 +33,8 @@ public class S1_Stack {
         }
 
         void show() {
-            for(int i: stack) {
-                System.out.print(i + " ");
+            for(int i=0;i<top;i++) {
+                System.out.print(stack[i] + " ");
             }
         }
     }
@@ -50,8 +50,9 @@ public class S1_Stack {
         nums.show();
         System.out.println();
         System.out.println("The popped element is: " + nums.pop());
-        nums.pop();
+        System.out.println("The popped element is: " + nums.pop());
         nums.show();
+        System.out.println();
         System.out.println("The topmost element is: " + nums.peek());
     }
 }
