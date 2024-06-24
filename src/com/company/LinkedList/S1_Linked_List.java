@@ -161,7 +161,7 @@ public class S1_Linked_List {
             }
             return list;
         }
-        public static LinkedList mergeTwoSortedLinkedList(LinkedList l1, LinkedList l2) {
+        static LinkedList mergeTwoSortedLinkedList(LinkedList l1, LinkedList l2) {
             Node one = l1.head;
             Node two = l2.head;
 
@@ -188,74 +188,6 @@ public class S1_Linked_List {
             }
             return res;
         }
-
-        static Node midNode(Node head, Node tail) {
-            Node f = head;
-            Node s = head;
-            while(f != null && f.next != null) {
-                s = s.next;
-                f = f.next.next;
-            }
-            return s;
-        }
-        static LinkedList mergeSort(Node head, Node  tail) {
-            if(head == tail) {
-                LinkedList br = new LinkedList();
-                br.addLast(head.data);
-                return br;
-            }
-
-            Node mid = midNode(head, tail);
-            LinkedList fsh = mergeSort(head, mid);
-            LinkedList ssh = mergeSort(mid.next, tail);
-            LinkedList cl = mergeTwoSortedLinkedList(fsh, ssh);
-            return cl;
-        }
-
-//        public LinkedList removeDuplicates(LinkedList l1) {
-//            LinkedList res = new LinkedList();
-//            while(l1.size > 0) {
-//                int val = l1.getFirst();
-//                l1.removeFirst();
-//
-//                if(res.size > 0 || res.tail.data != val) {
-//                    res.addLast(val);
-//                }
-//            }
-//            this.head = res.head;
-//            this.tail = res.tail;
-//            this.size = res.size;
-//            return res;
-//        }
-
-//        public void oddEven() {
-//            LinkedList odd = new LinkedList();
-//            LinkedList even = new LinkedList();
-//
-//            while(this.size > 0) {
-//                int val = this.getFirst();
-//                this.removeFirst();
-//
-//                if(val % 2 == 0) {
-//                    even.addLast(val);
-//                }else {
-//                    odd.addLast(val);
-//                }
-//            }
-//
-//            if(odd.size >0 && even.size > 0) {
-//                odd.tail.next = even.head;
-//                this.head = odd.head;
-//                this.tail = even.tail;
-//                this.size = odd.size + even.size;
-//            }else if()
-//                this.head = odd.head;
-//                this.tail = even.tail;
-//                this.size = odd.size + even.size;
-//            }
-//
-//
-//        }
     }
     public static void main(String[] args) {
         LinkedList ll1 = new LinkedList();
@@ -320,17 +252,6 @@ public class S1_Linked_List {
 
         System.out.println();
         l4.printList();
-
-        System.out.println();
-//        LinkedList sortedList = ll1.mergeSort(ll1.head, ll1.tail);
-//        System.out.println("Sorted List: ");
-//        sortedList.printList();
-
-//        int[] arr5 = ();new int[] {2,2,2,3,3,3,3,4,4,4,5,5,5};
-////        LinkedList l5 = ll1.getLinkedList(arr5);
-////        LinkedList ll5 = ll1.removeDuplicates(l5);
-////        ll5.printList;
-
 
     }
 }
