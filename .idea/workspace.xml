@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="895cf572-5a39-404d-87f9-0eae1994c8e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TODO/Q2_Product_Array_Except_Self.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TODO/Q2_Product_Array_Except_Self.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TODO/Q3_Maximum_Product_Subarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TODO/Q3_Maximum_Product_Subarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TODO/Q4_Minimum_Rotated_Sorted_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TODO/Q4_Minimum_Rotated_Sorted_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Implementation/I2_Implementation_Linked_List_With_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Implementation/I2_Implementation_Linked_List_With_Arrays.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,16 +22,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Tree/Binary_Tree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-38">
-              <caret line="99" column="41" lean-forward="true" selection-start-line="99" selection-start-column="41" selection-end-line="99" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Implementation/I1_Implementation_Binary_Tree.java">
+        <entry file="file://$PROJECT_DIR$/src/Leetcode/L1_Maximum_Product_Subarray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" selection-start-line="4" selection-end-line="4" />
@@ -35,7 +31,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Implementation/I2_Implementation_Linked_List_With_Arrays.java">
+        <entry file="file://$PROJECT_DIR$/src/Leetcode/L2_Product_Aray_Except_Self.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" selection-start-line="4" selection-end-line="4" />
@@ -44,7 +40,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Implementation/I3_Implementation_Stack_With_Arrays.java">
+        <entry file="file://$PROJECT_DIR$/src/Leetcode/L3_Maximum_Subarray_Sum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" selection-start-line="4" selection-end-line="4" />
@@ -53,7 +49,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Implementation/I4_Implementation_Stack_With_Linked_List.java">
+        <entry file="file://$PROJECT_DIR$/src/Leetcode/L4_Search_In_Rotated_Sorted_Array.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" selection-start-line="4" selection-end-line="4" />
@@ -62,7 +58,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Implementation/I5_Implementation_Queue_With_Linked_List.java">
+        <entry file="file://$PROJECT_DIR$/src/Leetcode/L5_Search_In_Minimum_Rotated_Sorted_Array.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" selection-start-line="4" selection-end-line="4" />
@@ -71,7 +67,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TODO/Q1_Best_Time_Buy_Sell_Stock.java">
+        <entry file="file://$PROJECT_DIR$/src/Leetcode/L6_IsSubsequence.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" selection-start-line="4" selection-end-line="4" />
@@ -80,28 +76,43 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TODO/Q2_Product_Array_Except_Self.java">
+        <entry file="file://$PROJECT_DIR$/src/TODO/Q6_Search_In_Rotated_Sorted_Array.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TODO/Q3_Maximum_Product_Subarray.java">
+        <entry file="file://$PROJECT_DIR$/src/TODO/Q7_Common_Subsequence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="319">
+              <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+              <folding>
+                <element signature="e#223#234#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TODO/Q8_Check_For_Subsequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/TODO/Q4_Minimum_Rotated_Sorted_Array.java">
+        <entry file="file://$PROJECT_DIR$/src/TODO/Q9_String_Rotated_By_2_Places.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            <state relative-caret-position="268">
+              <caret line="27" column="40" lean-forward="true" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -121,7 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/Array/S1_Largest_Element_Array.java" />
         <option value="$PROJECT_DIR$/src/com/company/Array/S2_Second_Largest_Array_Without_Sorting.java" />
         <option value="$PROJECT_DIR$/src/com/company/Array/S3_Remove_Duplicates_Array.java" />
         <option value="$PROJECT_DIR$/src/com/company/Array/S4_Rotate_Array.java" />
@@ -158,9 +168,21 @@
         <option value="$PROJECT_DIR$/src/com/company/Implementation/I5_Implementation_Queue_With_Linked_List.java" />
         <option value="$PROJECT_DIR$/src/TODO/Q1_Best_Time_Buy_Sell_Stock.java" />
         <option value="$PROJECT_DIR$/src/TODO/Q2_Product_Array_Self.java" />
+        <option value="$PROJECT_DIR$/src/TODO/Q5_Container_With_Most_Water.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Implementation/I2_Implementation_Linked_List_With_Arrays.java" />
         <option value="$PROJECT_DIR$/src/TODO/Q2_Product_Array_Except_Self.java" />
         <option value="$PROJECT_DIR$/src/TODO/Q3_Maximum_Product_Subarray.java" />
+        <option value="$PROJECT_DIR$/src/TODO/Q6_Search_In_Rotated_Sorted_Array.java" />
         <option value="$PROJECT_DIR$/src/TODO/Q4_Minimum_Rotated_Sorted_Array.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/L1_Maximum_Product_Subarray.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/L2_Product_Aray_Except_Self.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/L3_Maximum_Product_Subarray.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/L4_Search_In_Rotated_Sorted_Array.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/L5_Search_In_Minimum_Rotated_Sorted_Array.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/L6_IsSubsequence.java" />
+        <option value="$PROJECT_DIR$/src/TODO/Q7_Common_Subsequence.java" />
+        <option value="$PROJECT_DIR$/src/TODO/Q8_Check_For_Subsequence.java" />
+        <option value="$PROJECT_DIR$/src/TODO/Q9_String_Rotated_By_2_Places.java" />
       </list>
     </option>
   </component>
@@ -175,7 +197,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -199,6 +220,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -220,13 +242,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.S1_Stack">
-    <configuration name="Binary_Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Tree.Binary_Tree" />
+  <component name="RunManager" selected="Application.Q9_String_Rotated_By_2_Places">
+    <configuration name="Q3_Maximum_Product_Subarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TODO.Q3_Maximum_Product_Subarray" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Tree.*" />
+          <option name="PATTERN" value="TODO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,12 +256,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="S1_Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Stack.S1_Stack" />
+    <configuration name="Q4_Minimum_Rotated_Sorted_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TODO.Q4_Minimum_Rotated_Sorted_Array" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Stack.*" />
+          <option name="PATTERN" value="TODO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,12 +269,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="S2_Duplicate_Brackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Stack.S2_Duplicate_Brackets" />
+    <configuration name="Q6_Search_In_Rotated_Sorted_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TODO.Q6_Search_In_Rotated_Sorted_Array" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Stack.*" />
+          <option name="PATTERN" value="TODO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -260,12 +282,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="S3_Balanced_Parenthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Stack.S3_Balanced_Parenthesis" />
+    <configuration name="Q7_Common_Subsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TODO.Q7_Common_Subsequence" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Stack.*" />
+          <option name="PATTERN" value="TODO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -273,12 +295,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="S4_Next_Greater_Element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Stack.S4_Next_Greater_Element" />
+    <configuration name="Q9_String_Rotated_By_2_Places" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TODO.Q9_String_Rotated_By_2_Places" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Stack.*" />
+          <option name="PATTERN" value="TODO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -287,19 +309,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.S1_Stack" />
-      <item itemvalue="Application.S2_Duplicate_Brackets" />
-      <item itemvalue="Application.S3_Balanced_Parenthesis" />
-      <item itemvalue="Application.S4_Next_Greater_Element" />
-      <item itemvalue="Application.Binary_Tree" />
+      <item itemvalue="Application.Q3_Maximum_Product_Subarray" />
+      <item itemvalue="Application.Q6_Search_In_Rotated_Sorted_Array" />
+      <item itemvalue="Application.Q4_Minimum_Rotated_Sorted_Array" />
+      <item itemvalue="Application.Q7_Common_Subsequence" />
+      <item itemvalue="Application.Q9_String_Rotated_By_2_Places" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Binary_Tree" />
-        <item itemvalue="Application.S4_Next_Greater_Element" />
-        <item itemvalue="Application.S3_Balanced_Parenthesis" />
-        <item itemvalue="Application.S2_Duplicate_Brackets" />
-        <item itemvalue="Application.S1_Stack" />
+        <item itemvalue="Application.Q9_String_Rotated_By_2_Places" />
+        <item itemvalue="Application.Q7_Common_Subsequence" />
+        <item itemvalue="Application.Q4_Minimum_Rotated_Sorted_Array" />
+        <item itemvalue="Application.Q6_Search_In_Rotated_Sorted_Array" />
+        <item itemvalue="Application.Q3_Maximum_Product_Subarray" />
       </list>
     </recent_temporary>
   </component>
@@ -333,12 +355,14 @@
       <workItem from="1719293453956" duration="40000" />
       <workItem from="1719295903802" duration="3433000" />
       <workItem from="1719307926837" duration="9233000" />
-      <workItem from="1719334023886" duration="1375000" />
+      <workItem from="1719334023886" duration="1526000" />
+      <workItem from="1719403647619" duration="6010000" />
+      <workItem from="1719418748071" duration="3847000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51267000" />
+    <option name="totallyTimeSpent" value="61275000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -353,7 +377,7 @@
     <frame x="-7" y="-7" width="1550" height="830" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31769437" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3264075" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -362,7 +386,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32904148" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32904148" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -370,7 +394,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32904148" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32904148" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32904148" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -505,20 +529,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/LinkedList/S1_Linked_List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4131">
-          <caret line="248" column="48" selection-start-line="248" selection-start-column="48" selection-end-line="248" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2224#2225#0" expanded="true" />
-            <element signature="e#2264#2265#0" expanded="true" />
-            <element signature="e#2289#2290#0" expanded="true" />
-            <element signature="e#2329#2330#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/LinkedList/S2_LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -610,17 +620,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Implementation/I2_Implementation_Linked_List_With_Arrays.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Implementation/I3_Implementation_Stack_With_Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Implementation/I3_Implementation_Stack_With_Arrays.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Implementation/I2_Implementation_Linked_List_With_Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="935">
+          <caret line="55" column="38" selection-start-line="55" selection-start-column="38" selection-end-line="55" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/LinkedList/S1_Linked_List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4131">
+          <caret line="248" column="48" selection-start-line="248" selection-start-column="48" selection-end-line="248" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2224#2225#0" expanded="true" />
+            <element signature="e#2264#2265#0" expanded="true" />
+            <element signature="e#2289#2290#0" expanded="true" />
+            <element signature="e#2329#2330#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -647,22 +671,105 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TODO/Q2_Product_Array_Except_Self.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TODO/Q3_Maximum_Product_Subarray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="221">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TODO/Q5_Container_With_Most_Water.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TODO/Q4_Minimum_Rotated_Sorted_Array.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/L1_Maximum_Product_Subarray.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/L2_Product_Aray_Except_Self.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/L3_Maximum_Subarray_Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/L4_Search_In_Rotated_Sorted_Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/L5_Search_In_Minimum_Rotated_Sorted_Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/L6_IsSubsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TODO/Q6_Search_In_Rotated_Sorted_Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TODO/Q7_Common_Subsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+          <folding>
+            <element signature="e#223#234#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TODO/Q8_Check_For_Subsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TODO/Q9_String_Rotated_By_2_Places.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="27" column="40" lean-forward="true" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
         </state>
       </provider>
     </entry>
