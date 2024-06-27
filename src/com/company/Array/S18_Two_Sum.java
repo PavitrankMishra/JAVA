@@ -8,10 +8,10 @@ public class S18_Two_Sum {
         while(l<r) {
             int sum = arr[l] + arr[r];
             if(sum == target) {
-                res[0] = arr[l];
-                res[1] = arr[r];
-                break;
-            } else if(sum < target) {
+                res[0] = l;
+                res[1] = r;
+                return res;
+            } else if(sum<target){
                 l++;
             } else {
                 r--;
@@ -19,6 +19,7 @@ public class S18_Two_Sum {
         }
         return res;
     }
+
     public static void main(String[] args) {
         int[] arr = new int[] {2,7,11,15};
         int target = 9;

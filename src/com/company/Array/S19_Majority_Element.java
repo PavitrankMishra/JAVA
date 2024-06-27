@@ -5,26 +5,26 @@ public class S19_Majority_Element {
         int count = 0;
         int candidate = nums[0];
 
-        // Boyer-Moore Voting Algorithm to find candidate
-        for (int i = 0; i < nums.length; i++) {
-            if (count == 0) {
+        for(int i=0;i<nums.length;i++) {
+            if(count == 0) {
+                count = 1;
                 candidate = nums[i];
             }
+
             count += (candidate == nums[i]) ? 1 : -1;
         }
 
-        // Verify if the candidate is actually the majority element
         int actualCount = 0;
-        for (int num : nums) {
-            if (num == candidate) {
+        for(int e:nums) {
+            if(e == candidate) {
                 actualCount++;
             }
         }
 
-        if (actualCount > nums.length / 2) {
+        if(actualCount > nums.length/2) {
             return candidate;
-        } else {
-            throw new IllegalArgumentException("No majority element found");
+        }else {
+            throw new IllegalArgumentException("No, majority element found");
         }
     }
 

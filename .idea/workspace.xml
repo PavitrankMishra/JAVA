@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="895cf572-5a39-404d-87f9-0eae1994c8e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TODO/Q2_Product_Array_Except_Self.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TODO/Q2_Product_Array_Except_Self.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TODO/Q3_Maximum_Product_Subarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TODO/Q3_Maximum_Product_Subarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TODO/Q4_Minimum_Rotated_Sorted_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TODO/Q4_Minimum_Rotated_Sorted_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Implementation/I2_Implementation_Linked_List_With_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Implementation/I2_Implementation_Linked_List_With_Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA/com/company/Array/S14_Maximum_Product_Subarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA/com/company/Array/S14_Maximum_Product_Subarray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA/com/company/Array/S18_Two_Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA/com/company/Array/S18_Two_Sum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA/com/company/Array/S19_Majority_Element.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA/com/company/Array/S19_Majority_Element.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA/com/company/Array/S20_Maximum_Subarray_Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA/com/company/Array/S20_Maximum_Subarray_Sum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Array/S14_Maximum_Product_Subarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Array/S14_Maximum_Product_Subarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Array/S18_Two_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Array/S18_Two_Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Array/S19_Majority_Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Array/S19_Majority_Element.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Array/S20_Maximum_Subarray_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Array/S20_Maximum_Subarray_Sum.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,85 +26,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Leetcode/L1_Maximum_Product_Subarray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Leetcode/L2_Product_Aray_Except_Self.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Leetcode/L3_Maximum_Subarray_Sum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Leetcode/L4_Search_In_Rotated_Sorted_Array.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Leetcode/L5_Search_In_Minimum_Rotated_Sorted_Array.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Leetcode/L6_IsSubsequence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TODO/Q6_Search_In_Rotated_Sorted_Array.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TODO/Q7_Common_Subsequence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-              <folding>
-                <element signature="e#223#234#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TODO/Q8_Check_For_Subsequence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TODO/Q9_String_Rotated_By_2_Places.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Array/S18_Two_Sum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Array/S23_Contains_Duplicate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,11 +64,56 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/TODO/Q9_String_Rotated_By_2_Places.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Array/S19_Majority_Element.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="27" column="40" lean-forward="true" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+            <state relative-caret-position="374">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Array/S20_Maximum_Subarray_Sum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TODO/Q2_Product_Array_Except_Self.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Array/S22_Product_Array_Except_Self.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Array/S21_Sort_0s_1s_2s.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Array/S14_Maximum_Product_Subarray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -132,11 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/Array/S2_Second_Largest_Array_Without_Sorting.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Array/S3_Remove_Duplicates_Array.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Array/S4_Rotate_Array.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Array/S4_Rotate_Array_Left.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Array/S5_Rotate_Array_Right.java" />
         <option value="$PROJECT_DIR$/src/com/company/Array/S6_Move_Zeros_To_End.java" />
         <option value="$PROJECT_DIR$/src/com/company/Array/S7_Maximum_Consecutive_Ones.java" />
         <option value="$PROJECT_DIR$/src/com/company/Array/S8_Union_Two_Arrays.java" />
@@ -145,13 +141,9 @@
         <option value="$PROJECT_DIR$/src/com/company/Array/S11_Subarray_sum_equals_k.java" />
         <option value="$PROJECT_DIR$/src/com/company/Array/S12_Count_Pair_Sum.java" />
         <option value="$PROJECT_DIR$/src/com/company/Array/S13_Number_Of_Occurrence.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Array/S14_Maximum_Product_Subarray.java" />
         <option value="$PROJECT_DIR$/src/com/company/Array/S16_Maximum_Product_Two_Numbers.java" />
         <option value="$PROJECT_DIR$/src/com/company/Array/S15_Maximum_Possible_Sum_Of_Products.java" />
         <option value="$PROJECT_DIR$/src/com/company/Array/S17_Maximum_Product_Three_Numbers.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Array/S18_Two_Sum.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Array/S19_Majority_Element.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Array/S20_Maximum_Subarray_Sum.java" />
         <option value="$PROJECT_DIR$/src/com/company/Array/S21_Sort_0s_1s_2s.java" />
         <option value="$PROJECT_DIR$/src/com/company/LinkedList/S2_LinkedList.java" />
         <option value="$PROJECT_DIR$/src/com/company/LinkedList/S1_Linked_List.java" />
@@ -181,8 +173,17 @@
         <option value="$PROJECT_DIR$/src/Leetcode/L5_Search_In_Minimum_Rotated_Sorted_Array.java" />
         <option value="$PROJECT_DIR$/src/Leetcode/L6_IsSubsequence.java" />
         <option value="$PROJECT_DIR$/src/TODO/Q7_Common_Subsequence.java" />
-        <option value="$PROJECT_DIR$/src/TODO/Q8_Check_For_Subsequence.java" />
         <option value="$PROJECT_DIR$/src/TODO/Q9_String_Rotated_By_2_Places.java" />
+        <option value="$PROJECT_DIR$/src/TODO/Q8_Check_For_Subsequence.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Array/S22_Produxt_Array_Ecept_Self.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Array/S22_Produxt_Array_Except_Self.java" />
+        <option value="$PROJECT_DIR$/src/com/company/String/S1_Common_Subsequence.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Array/S18_Two_Sum.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Array/S23_Contains_Duplicate.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Array/S19_Majority_Element.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Array/S20_Maximum_Subarray_Sum.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Array/S22_Product_Array_Except_Self.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Array/S14_Maximum_Product_Subarray.java" />
       </list>
     </option>
   </component>
@@ -198,6 +199,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -214,13 +216,38 @@
               <item name="JAVA" type="b2602c69:ProjectViewProjectNode" />
               <item name="JAVA" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="Array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="String" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="TODO" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -242,13 +269,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q9_String_Rotated_By_2_Places">
-    <configuration name="Q3_Maximum_Product_Subarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TODO.Q3_Maximum_Product_Subarray" />
+  <component name="RunManager" selected="Application.S14_Maximum_Product_Subarray">
+    <configuration name="S14_Maximum_Product_Subarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Array.S14_Maximum_Product_Subarray" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TODO.*" />
+          <option name="PATTERN" value="com.company.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,12 +283,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q4_Minimum_Rotated_Sorted_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TODO.Q4_Minimum_Rotated_Sorted_Array" />
+    <configuration name="S19_Majority_Element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Array.S19_Majority_Element" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TODO.*" />
+          <option name="PATTERN" value="com.company.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -269,12 +296,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q6_Search_In_Rotated_Sorted_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TODO.Q6_Search_In_Rotated_Sorted_Array" />
+    <configuration name="S20_Maximum_Subarray_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Array.S20_Maximum_Subarray_Sum" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TODO.*" />
+          <option name="PATTERN" value="com.company.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -282,12 +309,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q7_Common_Subsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TODO.Q7_Common_Subsequence" />
+    <configuration name="S22_Product_Array_Except_Self" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Array.S22_Product_Array_Except_Self" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TODO.*" />
+          <option name="PATTERN" value="com.company.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -295,12 +322,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q9_String_Rotated_By_2_Places" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TODO.Q9_String_Rotated_By_2_Places" />
+    <configuration name="S23_Contains_Duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Array.S23_Contains_Duplicate" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TODO.*" />
+          <option name="PATTERN" value="com.company.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -309,19 +336,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Q3_Maximum_Product_Subarray" />
-      <item itemvalue="Application.Q6_Search_In_Rotated_Sorted_Array" />
-      <item itemvalue="Application.Q4_Minimum_Rotated_Sorted_Array" />
-      <item itemvalue="Application.Q7_Common_Subsequence" />
-      <item itemvalue="Application.Q9_String_Rotated_By_2_Places" />
+      <item itemvalue="Application.S23_Contains_Duplicate" />
+      <item itemvalue="Application.S19_Majority_Element" />
+      <item itemvalue="Application.S20_Maximum_Subarray_Sum" />
+      <item itemvalue="Application.S22_Product_Array_Except_Self" />
+      <item itemvalue="Application.S14_Maximum_Product_Subarray" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q9_String_Rotated_By_2_Places" />
-        <item itemvalue="Application.Q7_Common_Subsequence" />
-        <item itemvalue="Application.Q4_Minimum_Rotated_Sorted_Array" />
-        <item itemvalue="Application.Q6_Search_In_Rotated_Sorted_Array" />
-        <item itemvalue="Application.Q3_Maximum_Product_Subarray" />
+        <item itemvalue="Application.S14_Maximum_Product_Subarray" />
+        <item itemvalue="Application.S22_Product_Array_Except_Self" />
+        <item itemvalue="Application.S20_Maximum_Subarray_Sum" />
+        <item itemvalue="Application.S19_Majority_Element" />
+        <item itemvalue="Application.S23_Contains_Duplicate" />
       </list>
     </recent_temporary>
   </component>
@@ -357,12 +384,16 @@
       <workItem from="1719307926837" duration="9233000" />
       <workItem from="1719334023886" duration="1526000" />
       <workItem from="1719403647619" duration="6010000" />
-      <workItem from="1719418748071" duration="3847000" />
+      <workItem from="1719418748071" duration="3904000" />
+      <workItem from="1719455666256" duration="936000" />
+      <workItem from="1719456903004" duration="2923000" />
+      <workItem from="1719503856547" duration="3057000" />
+      <workItem from="1719507732998" duration="638000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61275000" />
+    <option name="totallyTimeSpent" value="68886000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -377,7 +408,7 @@
     <frame x="-7" y="-7" width="1550" height="830" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3264075" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34450403" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -386,7 +417,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32904148" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32904148" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -416,20 +447,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Array/S1_Largest_Element_Array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Array/S2_Second_Largest_Array_Without_Sorting.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -500,35 +517,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Array/S18_Two_Sum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Array/S19_Majority_Element.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Array/S20_Maximum_Subarray_Sum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Stack.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/company/Array/S21_Sort_0s_1s_2s.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/LinkedList/S2_LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -561,13 +550,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Array/S14_Maximum_Product_Subarray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -669,13 +651,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TODO/Q2_Product_Array_Except_Self.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/TODO/Q3_Maximum_Product_Subarray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -742,34 +717,97 @@
     <entry file="file://$PROJECT_DIR$/src/TODO/Q6_Search_In_Rotated_Sorted_Array.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TODO/Q7_Common_Subsequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-          <folding>
-            <element signature="e#223#234#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="323">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TODO/Q8_Check_For_Subsequence.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/String/S1_Common_Subsequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+        <state relative-caret-position="374">
+          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/TODO/Q8_Check_For_Subsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/TODO/Q9_String_Rotated_By_2_Places.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="27" column="40" lean-forward="true" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Array/S18_Two_Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Array/S23_Contains_Duplicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Array/S19_Majority_Element.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Array/S20_Maximum_Subarray_Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TODO/Q2_Product_Array_Except_Self.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Array/S21_Sort_0s_1s_2s.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Array/S22_Product_Array_Except_Self.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Array/S14_Maximum_Product_Subarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
         </state>
       </provider>
     </entry>

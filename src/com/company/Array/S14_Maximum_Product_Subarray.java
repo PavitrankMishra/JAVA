@@ -6,18 +6,19 @@ public class S14_Maximum_Product_Subarray {
         long ma = ans;
         long mi = ans;
 
-        int[] arr = new int[]{6, -3, -10, 0, 2};
-        int n = arr.length;
-        for(int i=0;i<n;i++) {
+        long[] arr = new long[] {6,-3,-10,0,2};
+        for(int i=0;i<arr.length;i++) {
             if(arr[i] < 0) {
                 long temp = mi;
                 mi = ma;
                 ma = temp;
             }
-            ma = Math.max(arr[i], arr[i]*ma);
-            mi = Math.min(arr[i], arr[i]*mi);
+
+            ma = Math.max(ma*arr[i], arr[i]);
+            mi = Math.min(mi*arr[i], arr[i]);
             ans = Math.max(ans, ma);
         }
+
         System.out.println(ans);
     }
 }
