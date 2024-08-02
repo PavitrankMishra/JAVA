@@ -121,6 +121,31 @@ public class ll1 {
                 ri--;
             }
         }
+
+        int kthFromEnd(int k) {
+            Node s = head;
+            Node f = head;
+            for(int i=0;i<k;i++) {
+                f = f.next;
+            }
+
+            while(f!= null) {
+                s = s.next;
+                f = f.next;
+            }
+            return s.data;
+        }
+
+        int middleOfLinkedList() {
+            Node s = head;
+            Node f = head;
+
+            while(f.next!= null && f.next.next != null) {
+                s = s.next;
+                f = f.next.next;
+            }
+            return s.data;
+        }
     }
 
     public static void main(String[] args) {
